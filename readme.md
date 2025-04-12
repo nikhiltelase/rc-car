@@ -29,6 +29,12 @@ This project enables full remote control and live video streaming of a small rob
 
 > 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=WGUHVOzH4Zo)
 
+## 🧩 Circuit Diagram
+
+![Surveillance Car Circuit Diagram](https://github.com/nikhiltelase/rc-car/raw/main/Surveillance%20Car%20circuit%20diagram.png)
+
+> [View on GitHub](https://github.com/nikhiltelase/rc-car/blob/main/Surveillance%20Car%20circuit%20diagram.png)
+
 ## 👨‍💻 Developed By
 
 - **Name**: Nikhil Telase  
